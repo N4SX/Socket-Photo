@@ -114,8 +114,8 @@ A comunicação segue um protocolo simples via **TCP Socket**:
 ------------------------------------------------------------------------
 
 ## Autores
--James Sousa
--Vanderle Carvalho
--David Natan
-Projeto desenvolvido como parte da disciplina **Sistemas Distribuídos**,
-Atividade 2.
+* **David Natan Santos**
+* **James de Sousa**
+* **Vanderlei de Sousa Carvalho**
+
+Este projeto faz parte da unidade 1 da disciplina de sistemas distribuidos 2025.2
